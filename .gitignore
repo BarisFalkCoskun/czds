@@ -1,4 +1,4 @@
 .claude/
 zones/
 .DS_Store
-
+*.DS_Store
